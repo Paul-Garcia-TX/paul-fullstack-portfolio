@@ -1,3 +1,9 @@
+canvas{
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+
 body{
     background-color: #21252a;
     font-family: 'Bai Jamjuree', sans-serif;
